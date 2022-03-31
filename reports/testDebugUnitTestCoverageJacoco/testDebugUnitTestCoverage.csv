@@ -1,0 +1,20 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+app,com.kamil.coverage,ComposableSingletons.MainActivityKt.lambda-1.1.1.new Function0() {...},1,0,0,0,1,0,1,0,1,0
+app,com.kamil.coverage,ComposableSingletons.MainActivityKt.lambda-3.new Function2() {...},23,0,4,0,3,0,3,0,1,0
+app,com.kamil.coverage,ComposableSingletons.MainActivityKt.lambda-1.1.1.new Function0() {...},1,0,0,0,1,0,1,0,1,0
+app,com.kamil.coverage,ComposableSingletons.MainActivityKt,23,0,0,0,3,0,1,0,1,0
+app,com.kamil.coverage,ComposableSingletons.MainActivityKt.lambda-1.new Function2() {...},60,0,8,0,6,0,5,0,1,0
+app,com.kamil.coverage,ComposableSingletons.MainActivityKt.lambda-2.new Function2() {...},32,0,4,0,3,0,3,0,1,0
+app,com.kamil.coverage,ComposableSingletons.InstrumentationComposableKt,0,11,0,0,0,1,0,1,0,1
+app,com.kamil.coverage,UnitComposableKt.UnitComposable.new Function0() {...},1,0,0,0,1,0,1,0,1,0
+app,com.kamil.coverage,UnitComposableKt,39,147,14,18,0,6,10,7,0,1
+app,com.kamil.coverage,ComposableSingletons.InstrumentationComposableKt.lambda-1.new Function3() {...},5,36,3,1,0,2,2,1,0,1
+app,com.kamil.coverage,InstrumentationComposableKt,33,153,13,19,0,6,10,7,0,1
+app,com.kamil.coverage,InstrumentationComposableKt.InstrumentationComposable.new Function0() {...},1,0,0,0,1,0,1,0,1,0
+app,com.kamil.coverage,MainActivity,15,0,0,0,4,0,2,0,2,0
+app,com.kamil.coverage,ComposableSingletons.UnitComposableKt,0,11,0,0,0,1,0,1,0,1
+app,com.kamil.coverage,ComposableSingletons.UnitComposableKt.lambda-1.new Function3() {...},5,36,3,1,0,2,2,1,0,1
+app,com.kamil.coverage.ui.theme,ColorKt,21,0,0,0,4,0,5,0,5,0
+app,com.kamil.coverage.ui.theme,ThemeKt,169,0,28,0,18,0,16,0,2,0
+app,com.kamil.coverage.ui.theme,TypeKt,55,0,0,0,5,0,2,0,2,0
+app,com.kamil.coverage.ui.theme,ShapeKt,25,0,0,0,4,0,2,0,2,0
